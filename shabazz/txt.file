@@ -1,0 +1,21 @@
+# LIST
+append()
+extend()
+insert()
+remove()
+pop()
+sort()
+reverse()
+
+# TUPLE
+count()
+index()
+
+# DICTIONARY
+keys()
+values()
+items()
+get()
+update()
+pop()
+setdefault()
