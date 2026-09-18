@@ -56,9 +56,6 @@ print(number[2:5])
 print(number[::-1])
 print(number[::-2])
 
-
-
-
 t = [1,2,3,['hello','hi']]
 a = t[3]
 
